@@ -1,0 +1,19 @@
+import{S as Q,i as R,s as U,e as s,t as f,k as w,c as r,a as p,h as g,d as i,m as b,b as e,J as L,g as W,H as t,n as G}from"../chunks/index-6cb0634e.js";import{d as X,b as Y}from"../chunks/env-97a0ac85.js";function Z(O){let n,u,E,o,H,A,a,y,M,k,l,S,c,P,T,j,v,D,J,I,q,z,d,C;return{c(){n=s("main"),u=s("h1"),E=f(`About Me
+		`),o=s("img"),A=w(),a=s("div"),y=s("p"),M=f("I was born on January 5, 2004."),k=w(),l=s("p"),S=f(`At school I was always interested in math. Starting from the 5th grade I actively participated
+			in various olympiads and conferences and won prizes in several of them! I consider the most
+			important award in the international competition
+			`),c=s("a"),P=f("ISEF"),T=f(`where I presented my work
+			in the category of mathematics.`),j=w(),v=s("p"),D=f(`In 9th grade, I started getting interested in IT. I became attracted by the number of
+			fascinating spheres and the opportunity to apply mathematics in practice. At the end of 11th
+			grade, I made the decision to enter a modern IT university, Innopolis.`),J=w(),I=s("p"),q=f(`I am currently in my 3rd trimester of my 1st year. During studying I met new interesting
+			people, developed soft skills and learned a lot of useful information. My learning is just
+			continuing, which means that there are a lot of exciting experiences ahead of me!`),z=w(),d=s("img"),this.h()},l(_){n=r(_,"MAIN",{});var m=p(n);u=r(m,"H1",{class:!0});var F=p(u);E=g(F,`About Me
+		`),o=r(F,"IMG",{id:!0,src:!0,alt:!0,class:!0}),F.forEach(i),A=b(m),a=r(m,"DIV",{id:!0,class:!0});var h=p(a);y=r(h,"P",{class:!0});var N=p(y);M=g(N,"I was born on January 5, 2004."),N.forEach(i),k=b(h),l=r(h,"P",{class:!0});var x=p(l);S=g(x,`At school I was always interested in math. Starting from the 5th grade I actively participated
+			in various olympiads and conferences and won prizes in several of them! I consider the most
+			important award in the international competition
+			`),c=r(x,"A",{id:!0,href:!0,class:!0});var V=p(c);P=g(V,"ISEF"),V.forEach(i),T=g(x,`where I presented my work
+			in the category of mathematics.`),x.forEach(i),j=b(h),v=r(h,"P",{class:!0});var B=p(v);D=g(B,`In 9th grade, I started getting interested in IT. I became attracted by the number of
+			fascinating spheres and the opportunity to apply mathematics in practice. At the end of 11th
+			grade, I made the decision to enter a modern IT university, Innopolis.`),B.forEach(i),J=b(h),I=r(h,"P",{class:!0});var K=p(I);q=g(K,`I am currently in my 3rd trimester of my 1st year. During studying I met new interesting
+			people, developed soft skills and learned a lot of useful information. My learning is just
+			continuing, which means that there are a lot of exciting experiences ahead of me!`),K.forEach(i),h.forEach(i),z=b(m),d=r(m,"IMG",{id:!0,src:!0,alt:!0,class:!0}),m.forEach(i),this.h()},h(){e(o,"id","frog"),L(o.src,H="https://pic.funnygifsbox.com/uploads/2020/08/funnygifsbox.com-2020-08-07-15-13-53-19.gif")||e(o,"src",H),e(o,"alt","frog piture"),e(o,"class","svelte-1gn51om"),e(u,"class","svelte-1gn51om"),e(y,"class","svelte-1gn51om"),e(c,"id","isef"),e(c,"href","https://www.societyforscience.org/isef/"),e(c,"class","svelte-1gn51om"),e(l,"class","svelte-1gn51om"),e(v,"class","svelte-1gn51om"),e(I,"class","svelte-1gn51om"),e(a,"id","block1"),e(a,"class","svelte-1gn51om"),e(d,"id","my-photo"),L(d.src,C="https://sun9-80.userapi.com/c1772/u54320665/99654761/x_67d43d4d.jpg")||e(d,"src",C),e(d,"alt","me"),e(d,"class","svelte-1gn51om")},m(_,m){W(_,n,m),t(n,u),t(u,E),t(u,o),t(n,A),t(n,a),t(a,y),t(y,M),t(a,k),t(a,l),t(l,S),t(l,c),t(c,P),t(l,T),t(a,j),t(a,v),t(v,D),t(a,J),t(a,I),t(I,q),t(n,z),t(n,d)},p:G,i:G,o:G,d(_){_&&i(n)}}}const et=X,at=Y,nt=!0;class st extends Q{constructor(n){super(),R(this,n,null,Z,U,{})}}export{st as default,et as hydrate,nt as prerender,at as router};
